@@ -68,7 +68,7 @@ $legacy-support-for-ie8: false !default;
   text-overflow: ellipsis;
 }
 
-// MEDIA QUERIES
+// MEDIA QUERIE
 @mixin media-query($media-query) {
   $breakpoint-found: false;
 
